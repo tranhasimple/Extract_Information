@@ -1,0 +1,8 @@
+﻿  extract_long.cpp
+D:\1\20212\KTLT\EKYC\EKYC\extract_long.cpp(132,98): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 350 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  EKYC.vcxproj -> D:\1\20212\KTLT\EKYC\x64\Release\EKYC.exe
